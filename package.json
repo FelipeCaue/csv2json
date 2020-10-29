@@ -19,5 +19,8 @@
     "morgan": "^1.10.0",
     "multer": "^1.4.2",
     "nodemon": "^2.0.6"
+  },
+  "devDependencies": {
+    "is-port-reachable": "^3.0.0"
   }
 }
